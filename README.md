@@ -1,6 +1,11 @@
 # pidgin-numix-icon-theme
 Unofficial Numix based Icon Theme for Pidgin
 
+## Screenshots
+### Numix
+![numix-dark](screenshots/numix-dark.png "Numix (dark)")
+
+
 ## Installing
 - Copy the numix and numix-square folder into ~/.purple/themes/
 - Restart Pidgin
