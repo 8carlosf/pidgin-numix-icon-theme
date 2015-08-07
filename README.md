@@ -4,12 +4,14 @@ Unofficial Numix based Icon Theme for Pidgin
 ## Screenshots
 
 ### Numix
-- ![numix-dark](screenshots/numix-dark.png "Numix (dark)")
-- ![numix-light](screenshots/numix-light.png "Numix (light)")
+![numix-dark](screenshots/numix-dark.png "Numix (dark)")
+
+![numix-light](screenshots/numix-light.png "Numix (light)")
 
 ### Numix-Square
-- ![numix-square-dark](screenshots/numix-square-dark.png "Numix-Square (dark)")
-- ![numix-square-light](screenshots/numix-square-light.png "Numix-Square (light)")
+![numix-square-dark](screenshots/numix-square-dark.png "Numix-Square (dark)")
+
+![numix-square-light](screenshots/numix-square-light.png "Numix-Square (light)")
 
 
 ## Installing
