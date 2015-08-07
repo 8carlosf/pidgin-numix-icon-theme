@@ -15,7 +15,7 @@ Unofficial Numix based Icon Theme for Pidgin
 
 
 ## Installing
-- Copy the numix and numix-square folder into ~/.purple/themes/
+- Copy the numix and/or numix-square folders into ~/.purple/themes/
 - Restart Pidgin
 - Go to Tools > Preferences > Themes
 - Select the new status icon theme
