@@ -1,0 +1,19 @@
+<theme 	type="pidgin status icon" 
+		name="numix-square"
+		image="numix.svg"
+>
+	<icon id="pidgin-status-available" file="available.svg" />
+	<icon id="pidgin-status-available-i" file="available.svg" />
+	<icon id="pidgin-status-away" file="away.svg" />
+	<icon id="pidgin-status-away-i" file="away.svg" />
+	<icon id="pidgin-status-busy" file="busy.svg" />
+	<icon id="pidgin-status-busy-i" file="busy.svg" />
+	<icon id="pidgin-status-chat" file="chat.svg" />
+	<icon id="pidgin-status-invisible" file="invisible.svg" />
+	<icon id="pidgin-status-xa" file="extended-away.svg" />
+	<icon id="pidgin-status-xa-i" file="extended-away.svg" />
+	<icon id="pidgin-status-login" file="log-in.svg" />
+	<icon id="pidgin-status-logout" file="log-out.svg" />
+	<icon id="pidgin-status-offline" file="offline.svg" />
+	<icon id="pidgin-status-person" file="person.svg" />
+</theme>
